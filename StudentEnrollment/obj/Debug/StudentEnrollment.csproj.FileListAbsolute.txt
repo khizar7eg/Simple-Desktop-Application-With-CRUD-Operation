@@ -1,0 +1,20 @@
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe.config
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.pdb
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csprojResolveAssemblyReference.cache
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.EnrollmentMenu.resources
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Form1.resources
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Properties.Resources.resources
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.GenerateResource.Cache
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.exe
+c:\users\eg\documents\visual studio 2013\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.pdb
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe.config
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.pdb
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csprojResolveAssemblyReference.cache
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.EnrollmentMenu.resources
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Form1.resources
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Properties.Resources.resources
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.GenerateResource.Cache
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.exe
+E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.pdb
