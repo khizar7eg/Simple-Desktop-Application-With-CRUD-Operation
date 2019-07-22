@@ -28,3 +28,4 @@ C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\Stu
 C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe.config
 C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe
 C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.pdb
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Main.resources

@@ -15,7 +15,7 @@ namespace StudentEnrollment
     public partial class EnrollmentMenu : Form
     {
        //Update Your Connection String
-        public string constring = "Data Source=HP-ELITEBOOK-84\\SQLEXPRESS;Initial Catalog=StudentEnrollment;User ID=sa;Password=madmax";
+        public string constring = "*****************************************";
         SqlCommand cmd;
         SqlDataAdapter adapt;
         
@@ -32,7 +32,7 @@ namespace StudentEnrollment
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form1 form = new Form1();
+            Main form = new Main();
             this.Hide();
             form.FormClosed += new FormClosedEventHandler(delegate { Close(); });
             form.Show();
@@ -170,9 +170,14 @@ namespace StudentEnrollment
             DisplayData();
         }
 
+        private void EnrollmentMenu_Load(object sender, EventArgs e)
+        {
 
+        }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
-
+        }
     }
 }

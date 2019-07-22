@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EnrollmentMenu));
             this.panel1 = new System.Windows.Forms.Panel();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -137,7 +138,6 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::StudentEnrollment.Properties.Resources.download;
             this.pictureBox3.Location = new System.Drawing.Point(9, 13);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(169, 138);
@@ -358,13 +358,14 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::StudentEnrollment.Properties.Resources.av6584c34aabb39f00a10;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(268, 113);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(71, 60);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 25;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // button7
             // 
@@ -412,6 +413,7 @@
             this.Name = "EnrollmentMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EnrollmentMenu";
+            this.Load += new System.EventHandler(this.EnrollmentMenu_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
