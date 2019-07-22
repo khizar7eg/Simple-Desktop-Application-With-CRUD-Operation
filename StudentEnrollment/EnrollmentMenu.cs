@@ -14,8 +14,8 @@ namespace StudentEnrollment
 {
     public partial class EnrollmentMenu : Form
     {
-       
-        public string constring = "Data Source=DESKTOP-7CP1IC7;Initial Catalog=StudentEnrollment;User ID=sa;Password=madmax";
+       //Update Your Connection String
+        public string constring = "Data Source=HP-ELITEBOOK-84\\SQLEXPRESS;Initial Catalog=StudentEnrollment;User ID=sa;Password=madmax";
         SqlCommand cmd;
         SqlDataAdapter adapt;
         

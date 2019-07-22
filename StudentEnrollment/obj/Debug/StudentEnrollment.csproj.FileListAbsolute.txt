@@ -18,3 +18,13 @@ E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\Stud
 E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.GenerateResource.Cache
 E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.exe
 E:\Projects\StudentEnrollment\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.pdb
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csprojResolveAssemblyReference.cache
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.EnrollmentMenu.resources
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Form1.resources
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.GenerateResource.Cache
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.exe
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.pdb
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Properties.Resources.resources
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe.config
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe
+C:\Users\Khizar Hayat\Projects\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.pdb
